@@ -19,11 +19,11 @@
 
 ## How to use? 
 
-Simply type "node arrow-functions.js" into the terminal and hit "Enter". 
+Simply type **"node arrow-functions.js"** into the terminal and hit "Enter". 
 
 ## Terminal Output: 
 
-gitpod /workspace/arrow-functions (main) $ node arrow-functions.js
+`gitpod /workspace/arrow-functions (main) $ node arrow-functions.js
 Sum 1:  8
 Sum 2:  3
 Sum 3:  5
@@ -33,6 +33,6 @@ Good Bye!
         This is a
         multiline
         text string.
-    </p>
+    </p>`
 
 ## Thanks for checking out my page!
