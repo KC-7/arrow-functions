@@ -34,7 +34,6 @@ saySomething("Hello World!");
 const sayBye = () => console.log("Good Bye!");
 sayBye();
 
-
 // Returning Multiple Lines
 
 const returnMultiple = () => (
